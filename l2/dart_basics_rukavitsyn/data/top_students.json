@@ -1,0 +1,82 @@
+[
+  {
+    "id": "S6",
+    "firstName": "Анна",
+    "lastName": "Лисенко",
+    "birthDate": "2004-05-17T00:00:00.000",
+    "enrolledCourses": [
+      "CS101",
+      "MATH201",
+      "CS202"
+    ],
+    "grades": {
+      "CS101": 99.0,
+      "MATH201": 96.0,
+      "CS202": 94.0
+    },
+    "skills": [
+      "dart",
+      "python",
+      "sql"
+    ]
+  },
+  {
+    "id": "S1",
+    "firstName": "Юрій",
+    "lastName": "Рукавіцин",
+    "birthDate": "2005-03-14T00:00:00.000",
+    "enrolledCourses": [
+      "CS101",
+      "MATH201",
+      "CS202"
+    ],
+    "grades": {
+      "CS101": 95.0,
+      "MATH201": 82.0,
+      "CS202": 90.0
+    },
+    "skills": [
+      "dart",
+      "flutter",
+      "git"
+    ]
+  },
+  {
+    "id": "S2",
+    "firstName": "Олена",
+    "lastName": "Коваль",
+    "birthDate": "2004-11-02T00:00:00.000",
+    "enrolledCourses": [
+      "CS101",
+      "MATH201"
+    ],
+    "grades": {
+      "CS101": 74.0,
+      "MATH201": 91.0
+    },
+    "skills": [
+      "python",
+      "git"
+    ]
+  },
+  {
+    "id": "S4",
+    "firstName": "Ірина",
+    "lastName": "Мельник",
+    "birthDate": "2006-01-09T00:00:00.000",
+    "enrolledCourses": [
+      "CS101",
+      "MATH201",
+      "ENG101"
+    ],
+    "grades": {
+      "CS101": 88.0,
+      "MATH201": 45.0,
+      "ENG101": 93.0
+    },
+    "skills": [
+      "figma",
+      "dart"
+    ]
+  }
+]
